@@ -1,9 +1,13 @@
-String One
+ String One
 String Two
 String Three
 String Four
 Changes String Five
 First commit to the feature
 The second commit to the feature
+
 New change to the main branch par to the feature
 ----
+
+Change in feature branch
+
